@@ -62,7 +62,7 @@ public class Test2 {
 				System.out.println("잘못된 번호");
 				break;
 			}
-		}
+		}System.out.println("hi");
 	}
 
 	// TODO Auto-generated method stub
