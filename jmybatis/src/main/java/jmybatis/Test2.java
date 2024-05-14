@@ -64,7 +64,8 @@ public class Test2 {
 			}
 		}
 		System.out.println("hi");
-	System.out.println("hi1");
+		System.out.println("hi1");
+		System.out.println("hi2");
 	
 	}
 
